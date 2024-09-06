@@ -11,8 +11,8 @@ I love tackling complex problems and turning them into clean, efficient solution
 
 Here are a few of my projects that showcase my work:
 - [**Sulala**](https://sulala.com/)- a comprehensive livestock and pet animal products management admin dashboard.
-- <a href="https://owlevents.app/" target="_blank">[**Owl Events**] </a> - A leading event Management tool in Ethiopia and East africa.
-- <a href="https://afrochat.app/" target="_blank">[**Afrochat**] </a> - Help to build AfroChat, which integrates different generative AI models to deliver high-quality responses.
+- <a href="https://owlevents.app/" target="_blank">**Owl Events** </a> - A leading event Management tool in Ethiopia and East africa.
+- <a href="https://afrochat.app/" target="_blank">**Afrochat** </a> - Help to build AfroChat, which integrates different generative AI models to deliver high-quality responses.
 
 ## 📫 Get in Touch
 
