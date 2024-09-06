@@ -1,18 +1,18 @@
-# 👋 Hello, I'm Yonas Assefa!
+# 👋 Hello,
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer experienced in developing high-quality software solutions. I specialize in , and I’m passionate about [mention any technologies or methodologies you are enthusiastic about].
+I'm Yonas Assefa, a Senior Software Engineer experienced in developing high-quality software solutions.
 
 
 ## 📈 What I Do
 
-I love tackling complex problems and turning them into clean, efficient solutions. My experience ranges from building scalable web applications to designing robust backend systems. I’m also enthusiastic about Data structure and algorithm(DSA) AI, DevOps, and cybersecurity.
+I love tackling complex problems and turning them into clean, efficient solutions. My experience ranges from building scalable web applications to designing robust backend systems. I’m also enthusiastic about AI and competitive programming.
 
 ## 🔧 Projects
 
 Here are a few of my projects that showcase my work:
-- [**Project Name**](link to project) - Brief description of what the project does.
+- [**Sulala**](https://sulala.com/) - a comprehensive livestock and pet animal products management admin dashboard.
 - [**Project Name**](link to project) - Brief description of what the project does.
 - [**Project Name**](link to project) - Brief description of what the project does.
 
