@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer experienced in developing high-quality software solutions. I specialize in [your key areas of expertise, e.g., full-stack development, machine learning, etc.], and I’m passionate about [mention any technologies or methodologies you are enthusiastic about].
+I'm a Senior Software Engineer experienced in developing high-quality software solutions. I specialize in , and I’m passionate about [mention any technologies or methodologies you are enthusiastic about].
 
 
 ## 📈 What I Do
