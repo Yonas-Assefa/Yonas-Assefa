@@ -10,8 +10,8 @@ I love tackling complex problems and turning them into clean, efficient solution
 ## 🔧 Projects
 
 Here are a few of my projects that showcase my work:
-- [**Sulala**](https://sulala.com/){:target="_blank"} - a comprehensive livestock and pet animal products management admin dashboard.
-- [**Project Name**](link to project) - Brief description of what the project does.
+- [**Sulala**](https://sulala.com/)- a comprehensive livestock and pet animal products management admin dashboard.
+- <a href="https://owlevents.app/" target="_blank">Owl Events</a> - A leading event Management tool in Ethiopia and East africa.
 - [**Project Name**](link to project) - Brief description of what the project does.
 
 ## 📫 Get in Touch
