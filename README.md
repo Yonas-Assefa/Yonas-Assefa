@@ -1,7 +1,5 @@
 # 👋 Hello,
 
-## 👨‍💻 About Me
-
 I'm Yonas Assefa, a Senior Software Engineer experienced in developing high-quality software solutions.
 
 
@@ -12,7 +10,7 @@ I love tackling complex problems and turning them into clean, efficient solution
 ## 🔧 Projects
 
 Here are a few of my projects that showcase my work:
-- [**Sulala**](https://sulala.com/) - a comprehensive livestock and pet animal products management admin dashboard.
+- [**Sulala**](https://sulala.com/){:target="_blank"} - a comprehensive livestock and pet animal products management admin dashboard.
 - [**Project Name**](link to project) - Brief description of what the project does.
 - [**Project Name**](link to project) - Brief description of what the project does.
 
