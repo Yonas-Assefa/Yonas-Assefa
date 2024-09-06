@@ -1,8 +1,8 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Yonas Assefa!
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer with over a decade of experience in developing high-quality software solutions. I specialize in [your key areas of expertise, e.g., full-stack development, machine learning, etc.], and I’m passionate about [mention any technologies or methodologies you are enthusiastic about].
+I'm a Senior Software Engineer experienced in developing high-quality software solutions. I specialize in [your key areas of expertise, e.g., full-stack development, machine learning, etc.], and I’m passionate about [mention any technologies or methodologies you are enthusiastic about].
 
 ## 🛠️ Skills & Technologies
 
