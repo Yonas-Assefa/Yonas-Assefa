@@ -17,7 +17,7 @@ Here are a few of my projects that showcase my work:
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me through [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/yonas-assefa-74334b224/)) or [Email](mailto:se.yonas.assefa@gmail.com). I’m always open to discussing new opportunities, ideas, or just connecting with fellow tech enthusiasts.
+Feel free to reach out to me through [LinkedIn]([[your-linkedin-profile](https://www.linkedin.com/in/yonas-assefa-74334b224/)]) or [Email](mailto:se.yonas.assefa@gmail.com). I’m always open to discussing new opportunities, ideas, or just connecting with fellow tech enthusiasts.
 
 ---
 
